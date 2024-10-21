@@ -1,0 +1,7 @@
+[package]
+name = "scm-lcd"
+description = "Smallest Common Multiple (SCM) & Largest Common Divisor (LCD)"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
